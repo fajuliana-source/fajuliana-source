@@ -6,7 +6,7 @@ I'm a Data Analyst, Statistician, and Research Analyst focused on turning comple
 
 I work across data analysis, statistical analysis, data visualization, and research, using tools such as Excel, SQL, Python, R, and Power BI.
 
-My approach combines analytical thinking with statistical rigour — from cleaning and preparing data, to identifying patterns and relationships, communicating findings, and translating results into insights people can act on.
+My approach combines analytical thinking with statistical rigour, from cleaning and preparing data, to identifying patterns and relationships, communicating findings, and translating results into insights people can act on.
 
 ## What I Do
 
